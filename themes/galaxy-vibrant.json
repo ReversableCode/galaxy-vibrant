@@ -1,49 +1,49 @@
 {
-  "name": "Flamingo Galaxy",
+  "name": "Galaxy Vibrant",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#263647",
-    "activityBarBadge.background": "#ee70a9",
-    "badge.background": "#ee70a9",
-    "button.background": "#ee70a9",
+    "activityBar.background": "#121921",
+    "activityBarBadge.background": "#ff0059",
+    "badge.background": "#ff0059",
+    "button.background": "#ff0059",
     "diffEditor.insertedTextBackground": "#0e5849",
-    "editor.background": "#263647",
+    "editor.background": "#121921",
     "editor.foreground": "#ffffff",
-    "editor.lineHighlightBorder": "#263647",
+    "editor.lineHighlightBorder": "#222941",
     "editorGroupHeader.tabsBackground": "#121921",
     "editorLineNumber.foreground": "#c7c7c7",
-    "editorWidget.background": "#263647",
-    "focusBorder": "#69aff8",
+    "editorWidget.background": "#222941",
+    "focusBorder": "#277df8",
     "foreground": "#ffffff",
-    "gitDecoration.modifiedResourceForeground": "#fef680",
-    "input.background": "#1b2632",
+    "gitDecoration.modifiedResourceForeground": "#fffc37",
+    "input.background": "#121921",
     "input.placeholderForeground": "#c7c7c7",
-    "list.activeSelectionBackground": "#507295",
-    "list.hoverBackground": "#364c63",
-    "list.inactiveSelectionBackground": "#364c63",
+    "list.activeSelectionBackground": "#222941",
+    "list.hoverBackground": "#122931",
+    "list.inactiveSelectionBackground": "#323941",
     "selection.background": "#c1deff",
-    "sideBar.background": "#263647",
-    "statusBar.background": "#ee70a9",
-    "tab.inactiveBackground": "#1b2632",
+    "sideBar.background": "#121921",
+    "statusBar.background": "#ff0059",
+    "tab.inactiveBackground": "#121921",
     "tab.inactiveForeground": "#c7c7c7",
     "terminal.ansiBlack": "#000000",
-    "terminal.ansiBlue": "#69aff8",
+    "terminal.ansiBlue": "#277df8",
     "terminal.ansiBrightBlack": "#686868",
-    "terminal.ansiBrightBlue": "#69aff8",
-    "terminal.ansiBrightCyan": "#478dc8",
-    "terminal.ansiBrightGreen": "#3cc5aa",
-    "terminal.ansiBrightMagenta": "#ee70a9",
-    "terminal.ansiBrightRed": "#fda0a0",
+    "terminal.ansiBrightBlue": "#277df8",
+    "terminal.ansiBrightCyan": "#277df8",
+    "terminal.ansiBrightGreen": "#5ddb4b",
+    "terminal.ansiBrightMagenta": "#6f3059",
+    "terminal.ansiBrightRed": "#ff0059",
     "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.ansiBrightYellow": "#fffc67",
+    "terminal.ansiBrightYellow": "#fffc37",
     "terminal.ansiCyan": "#1dafec",
-    "terminal.ansiGreen": "#1dbb9b",
-    "terminal.ansiMagenta": "#a665a6",
-    "terminal.ansiRed": "#fd6e72",
+    "terminal.ansiGreen": "#5ddb4b",
+    "terminal.ansiMagenta": "#c635c6",
+    "terminal.ansiRed": "#ff0069",
     "terminal.ansiWhite": "#c7c7c7",
     "terminal.ansiYellow": "#fef035",
     "terminal.foreground": "#ffffff",
-    "terminal.selectionBackground": "#c1deff",
+    "terminal.selectionBackground": "#17ade8",
     "titleBar.activeBackground": "#000000"
   },
   "tokenColors": [
@@ -54,7 +54,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#fffc67"
+        "foreground": "#fffc37"
       }
     },
     {
@@ -75,7 +75,7 @@
         "support.class.component.js.jsx"
       ],
       "settings": {
-        "foreground": "#fda0a0"
+        "foreground": "#ff0059"
       }
     },
     {
@@ -86,7 +86,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#69aff8"
+        "foreground": "#1dafec"
       }
     },
     {
@@ -95,7 +95,7 @@
         "invalid"
       ],
       "settings": {
-        "foreground": "#fd6e72"
+        "foreground": "#ff0059"
       }
     },
     {
@@ -106,7 +106,7 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#ee70a9"
+        "foreground": "#ff0059"
       }
     },
     {
@@ -126,7 +126,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#1dbb9b"
+        "foreground": "#1dafec"
       }
     },
     {
@@ -135,7 +135,7 @@
         "entity.name.tag"
       ],
       "settings": {
-        "foreground": "#fda0a0"
+        "foreground": "#ff0059"
       }
     },
     {
@@ -144,7 +144,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#a665a6"
+        "foreground": "#c635c6"
       }
     },
     {

@@ -1,8 +1,8 @@
-# Flamingo Galaxy
+# Galaxy Vibrant
 
-A dark theme for Visual Studio Code
+A dark theme for Visual Studio Code with vibrant colors
 
-![Screenshot](https://raw.githubusercontent.com/oleblaesing/flamingo-galaxy/master/screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/ReversableCode/galaxy-vibrant/master/screenshot.png "Screenshot")
 
 ## License
 

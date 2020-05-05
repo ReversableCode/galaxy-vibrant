@@ -1,6 +1,6 @@
 {
   "bugs": {
-    "url": "https://github.com/oleblaesing/flamingo-galaxy/issues"
+    "url": "https://github.com/ReversableCode/galaxy-vibrant/issues"
   },
   "categories": [
     "Themes"
@@ -8,29 +8,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "Flamingo Galaxy",
-        "path": "./themes/flamingo-galaxy.json",
+        "label": "Galaxy Vibrant",
+        "path": "./themes/galaxy-vibrant.json",
         "uiTheme": "vs-dark"
       }
     ]
   },
-  "description": "Flamingo Galaxy color theme inspired by jglovier/galaxy-theme-iterm",
-  "displayName": "Flamingo Galaxy",
+  "description": "Flamingo Galaxy color theme with vibrant color scheme",
+  "displayName": "Galaxy Vibrant",
   "engines": {
     "vscode": "^1.23.0"
   },
   "galleryBanner": {
-    "color": "#ee70a9",
+    "color": "#ff0059",
     "theme": "dark"
   },
-  "homepage": "https://marketplace.visualstudio.com/items?itemName=oleblaesing.flamingo-galaxy",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=reversablecode.galaxy-vibrant",
   "icon": "logo.png",
   "license": "MIT",
-  "name": "flamingo-galaxy",
-  "publisher": "oleblaesing",
+  "name": "galaxy-vibrant",
+  "publisher": "reversablecode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oleblaesing/flamingo-galaxy.git"
+    "url": "https://github.com/ReversableCode/galaxy-vibrant.git"
   },
-  "version": "0.0.3"
+  "version": "0.0.1"
 }
